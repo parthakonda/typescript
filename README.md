@@ -34,3 +34,5 @@ tsc <file.ts>
     // Output
     Hello World
     ```
+[2. Variables.](examples/2_variables.ts)
+
